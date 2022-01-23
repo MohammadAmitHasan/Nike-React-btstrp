@@ -1,0 +1,70 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto&display=swap');
+
+/* Common styles */
+body{
+    font-family: 'Roboto', sans-serif;
+    color: #3E3E3E;
+}
+
+.heading{
+    color: #363958;
+    font-weight: 700;
+}
+
+.nike-btn{
+    background-image: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    color: white;
+    border-radius: 10px;
+    border: 0px;
+    font-weight: 500;
+    padding: 18px 30px;
+}
+
+.cart-logo{
+    height: 20px;
+    width: 20px;
+    margin-right: 8px;
+}
+
+.nike-round{
+    border-radius: 20px;
+}
+
+/* Header section styles */
+
+.nike-banner-background{
+    background-color: #FFF9F4
+    ;
+}
+
+.banner-heading{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+}
+
+.nike-special-color{
+    color: #FA804C;
+    line-height: 60px;
+}
+
+.header-img{
+    max-width: 450px;
+}
+
+/* Cards styles */
+.card-img-container{
+    background-color: #F1F1F1;
+}
+.price{
+    font-weight: 900;
+    font-size: 36px;
+    margin: 0;
+}
+
+
+/* feature section */
+.feature-img{
+    width: 80px;
+    height: 80px;
+}
